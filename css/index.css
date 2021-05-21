@@ -1,0 +1,19 @@
+body {
+    background-color: #4B4848;
+}
+#HomePage {
+    font-family: Roboto;
+    font-size: 30px;
+    color: white;
+    text-underline-offset: unset;
+}
+#button {
+    font-family: Roboto;
+    text-align: unset;
+    color: whitesmoke;
+    margin-left: 13px;
+    font-size: 15px;
+}
+#connect {
+    margin-left: 770px;
+}
